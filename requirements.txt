@@ -16,4 +16,4 @@ shapely
 python-dotenv
 streamlit-js-eval
 plotly
-sklearn
+scikit-learn
