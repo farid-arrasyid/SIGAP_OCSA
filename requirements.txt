@@ -1,0 +1,14 @@
+streamlit==1.52.1
+pymongo
+utm
+geopy
+simplekml
+numpy
+pandas
+requests
+python-dotenv
+folium
+branca
+fastkml
+pyproj
+shapely
