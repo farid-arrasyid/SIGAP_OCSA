@@ -1,4 +1,5 @@
 streamlit==1.52.1
+streamlit-folium
 pymongo
 utm
 geopy
@@ -12,3 +13,5 @@ branca
 fastkml
 pyproj
 shapely
+python-dotenv
+streamlit-js-eval
