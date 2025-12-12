@@ -17,3 +17,4 @@ python-dotenv
 streamlit-js-eval
 plotly
 scikit-learn
+st-aggrid==0.3.4
