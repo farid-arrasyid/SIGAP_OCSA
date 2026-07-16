@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="hHlalkwl4PJe471e12P6">
+    <mxGraphModel dx="1623" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-14" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TjDp1eiqcBqvv3Qs8t3K-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="370" />
+              <mxPoint x="-60" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-15" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TjDp1eiqcBqvv3Qs8t3K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-16" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TjDp1eiqcBqvv3Qs8t3K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sumber Air (x)&lt;br&gt;Debit : 9,20&amp;nbsp;m&lt;sup&gt;3&lt;/sup&gt;/bulan" vertex="1">
+          <mxGeometry height="60" width="140" x="-240" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-17" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="TjDp1eiqcBqvv3Qs8t3K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-18" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="TjDp1eiqcBqvv3Qs8t3K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Domestik (y&lt;sub&gt;1&lt;/sub&gt;)&lt;div&gt;Debit : 7,75 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-20" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-19" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="TjDp1eiqcBqvv3Qs8t3K-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-20" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="TjDp1eiqcBqvv3Qs8t3K-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Laboratorium (y&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;)&lt;div&gt;Debit : 1 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-20" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-21" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Pembersihan Engine (y&lt;span style=&quot;font-size: 10px;&quot;&gt;3&lt;/span&gt;)&lt;div&gt;Debit : 0,45 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-20" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Septictank (z&lt;sub&gt;1&lt;/sub&gt;)&lt;div&gt;Debit : 2,73 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="245" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-22" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="TjDp1eiqcBqvv3Qs8t3K-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bak Kontrol Domestik (z&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;)&lt;div&gt;Debit : 5,02 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="245" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-23" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="TjDp1eiqcBqvv3Qs8t3K-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oil Catcher (z&lt;span style=&quot;font-size: 10px;&quot;&gt;3&lt;/span&gt;)&lt;div&gt;Debit : 2,78 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="245" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-24" edge="1" parent="1" source="TjDp1eiqcBqvv3Qs8t3K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Faktor Kehilangan (z&lt;span style=&quot;font-size: 10px;&quot;&gt;4&lt;/span&gt;)&lt;div&gt;Debit : 0.07 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="245" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menguap (z&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;)&lt;div&gt;Debit : 0.45 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="245" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Badan Air Permukaan" vertex="1">
+          <mxGeometry height="60" width="180" x="530" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="TjDp1eiqcBqvv3Qs8t3K-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Diangkut oleh&amp;nbsp;&lt;div&gt;PT Primanru Jaya&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="530" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
