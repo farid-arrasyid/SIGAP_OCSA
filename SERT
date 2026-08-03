@@ -4,11 +4,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_Xpu3AD_zH3DxSHPnjaO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#FFFFFF,#FFFF00);" value="&lt;b&gt;INCIDENT COMMANDER&lt;/b&gt;" vertex="1">
+        <mxCell id="_Xpu3AD_zH3DxSHPnjaO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#ffea00, #FFFF00);" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;INCIDENT COMMANDER&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="310" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="_Xpu3AD_zH3DxSHPnjaO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="Yudha Prasetya" vertex="1">
+        <mxCell id="_Xpu3AD_zH3DxSHPnjaO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Yudha Prasetya&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#8c4a4a, #FFFF00);fontColor=light-dark(#ffffff, #ededed);" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;LOG KEEPER&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Aditya Kurniawan Anjasmara&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Fitri E.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#8c4a4a, #FFFF00);fontColor=light-dark(#ffffff, #ededed);" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MUSTERING&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Purwanto&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Security On Duty&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#8c4a4a, #FFFF00);fontColor=light-dark(#ffffff, #ededed);" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;TELEPHONE RESPONDER&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Arief S.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Irham H.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Rais W.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#ffea00, #FFFF00);" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ON-SCENE COMMANDER&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;M. Riski Imansyah Lubis&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="80" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#ffea00, #FFFF00);" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Tim Penanggulangan&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;(Oleh OSC)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="80" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="KcgZADlDjf8j_8S_rsGD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fillColor=light-dark(#ffea00, #FFFF00);" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Tim Pendukung&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="550" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
