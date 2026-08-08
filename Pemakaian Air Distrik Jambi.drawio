@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QMfmT0hRsJq1Fk7GReZc" name="BS139">
-    <mxGraphModel dx="1153" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,10 +194,10 @@
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-2" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3MkeNHWR_Tcl5IQNQK_9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-3" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3MkeNHWR_Tcl5IQNQK_9-12">
+        <mxCell id="Ix42rrHkv7RUbKaAet_Z-1" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3MkeNHWR_Tcl5IQNQK_9-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sumber Air Truck&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Water Tank&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;(x)&lt;br&gt;Debit : 9,20&amp;nbsp;m&lt;sup&gt;3&lt;/sup&gt;/bulan" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sumber Air Truck&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Water Tank&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;(x)&lt;br&gt;Debit : 0.306 m&lt;sup&gt;3&lt;/sup&gt;/hari" vertex="1">
           <mxGeometry height="60" width="140" x="320" y="616" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-5" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3MkeNHWR_Tcl5IQNQK_9-13">
@@ -206,7 +206,7 @@
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-6" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3MkeNHWR_Tcl5IQNQK_9-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Domestik (y&lt;sub&gt;1&lt;/sub&gt;)&lt;div&gt;Debit : 7,75 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Domestik (y&lt;sub&gt;1&lt;/sub&gt;)&lt;div&gt;Debit : 0.259 m&lt;sup&gt;3&lt;/sup&gt;/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hari&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="540" y="526" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-8" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3MkeNHWR_Tcl5IQNQK_9-17">
@@ -215,7 +215,7 @@
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-9" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3MkeNHWR_Tcl5IQNQK_9-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Laboratorium (y&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;)&lt;div&gt;Debit : 1 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Laboratorium (y&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;)&lt;div&gt;Debit : 0.034 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="540" y="616" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-11" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;">
@@ -223,22 +223,22 @@
             <mxPoint x="800" y="756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Pembersihan Engine (y&lt;span style=&quot;font-size: 10px;&quot;&gt;3&lt;/span&gt;)&lt;div&gt;Debit : 0,45 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="540" y="706" as="geometry" />
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Penggunaan Pembersihan Engine (y&lt;span style=&quot;font-size: 10px;&quot;&gt;3&lt;/span&gt;)&lt;div&gt;Debit : 0.015 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="540" y="726" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Septictank (z&lt;sub&gt;1&lt;/sub&gt;)&lt;div&gt;Debit : 2,73 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Septictank (z&lt;sub&gt;1&lt;/sub&gt;)&lt;div&gt;Debit : 0.091 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="480" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-14" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3MkeNHWR_Tcl5IQNQK_9-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bak Kontrol Domestik (z&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;)&lt;div&gt;Debit : 5,02 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bak Kontrol Domestik (z&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;)&lt;div&gt;Debit : 0.167 m&lt;sup&gt;3&lt;/sup&gt;/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hari&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="536" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-16" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3MkeNHWR_Tcl5IQNQK_9-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oil Catcher (z&lt;span style=&quot;font-size: 10px;&quot;&gt;3&lt;/span&gt;)&lt;div&gt;Debit : 0.80 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oil Catcher (z&lt;span style=&quot;font-size: 10px;&quot;&gt;3&lt;/span&gt;)&lt;div&gt;Debit : 0.0267 m&lt;sup&gt;3&lt;/sup&gt;/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hari&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="599" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-18" edge="1" parent="1" source="3MkeNHWR_Tcl5IQNQK_9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;">
@@ -246,10 +246,10 @@
             <mxPoint x="1090" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Faktor Kehilangan (z&lt;span style=&quot;font-size: 10px;&quot;&gt;4&lt;/span&gt;)&lt;div&gt;Debit : 0.20 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Faktor Kehilangan (z&lt;span style=&quot;font-size: 10px;&quot;&gt;4&lt;/span&gt;)&lt;div&gt;Debit : 0.0067 m&lt;sup&gt;3&lt;/sup&gt;/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hari&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="656" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menguap (z&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;)&lt;div&gt;Debit : 0.45 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menguap (z&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;)&lt;div&gt;Debit : 0.015 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="726" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Badan Air Permukaan" vertex="1">
