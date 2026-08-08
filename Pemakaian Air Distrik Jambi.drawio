@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QMfmT0hRsJq1Fk7GReZc" name="BS139">
-    <mxGraphModel dx="683" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Faktor Kehilangan (z&lt;span style=&quot;font-size: 10px;&quot;&gt;4&lt;/span&gt;)&lt;div&gt;Debit : 0.0067 m&lt;sup&gt;3&lt;/sup&gt;/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hari&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="656" as="geometry" />
         </mxCell>
-        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menguap (z&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;)&lt;div&gt;Debit : 0.015 m&lt;sup&gt;3&lt;/sup&gt;/bulan&lt;/div&gt;" vertex="1">
+        <mxCell id="3MkeNHWR_Tcl5IQNQK_9-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menguap (z&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;)&lt;div&gt;Debit : 0.015 m&lt;sup&gt;3&lt;/sup&gt;/hari&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="805" y="726" as="geometry" />
         </mxCell>
         <mxCell id="3MkeNHWR_Tcl5IQNQK_9-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Badan Air Permukaan" vertex="1">
